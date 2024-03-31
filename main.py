@@ -114,4 +114,4 @@ if __name__ == "__main__":
 ##############################################
 # 3 - 0962 words checked.   ivy ->   pro in 11
 # 4 - 3862 words checked.  atap ->  unau in 18
-# 5 - 0015 words checked. above -> parol in 25
+# 5 - 0045 words checked. above -> parol in 25
